@@ -13,3 +13,5 @@ primary .c file should be called shell.c.
 • Please be careful to follow the I/O formats exactly.
 • You can assume that inputs will be correctly formatted and that all commands will be a
 single line of input.
+
+Please follow both [Rutgers University's Principles of Academic Integrity](https://academicintegrity.rutgers.edu) and the [Rutgers Department of Computer Science's Academic Integrity Policy](https://www.cs.rutgers.edu/academics/undergraduate/academic-integrity-policy)
